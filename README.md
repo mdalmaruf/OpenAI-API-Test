@@ -64,12 +64,12 @@ Open your terminal (or VS Code terminal) and run the following commands to set u
 
 
 # Create a conda environment named 'venv' with Python 3.9
-```sh
+
 conda create -p venv python=3.9
-```
+
 # Check the list of conda environments
 conda env list
 
 # Activate the newly created environment
 conda activate venv
-
+```
